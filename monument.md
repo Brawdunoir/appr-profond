@@ -1,6 +1,6 @@
 # Monuments
 
-1. Tour Effeil
+1. Tour Eiffel
 2. Alambra (cité)
 3. Arc de Triomphe
 4. Statue de la liberté
