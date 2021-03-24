@@ -16,4 +16,4 @@ name = args["name"]
 [os.rename(directory+f, str(name) + str(f)) for f in os.listdir(directory) 
 if (f.endswith(".jpg"))]
 
-### a revoir : les fichiers sont bien renommés mais sont déplacés dans le dossier où se situe annotation.py
+89
